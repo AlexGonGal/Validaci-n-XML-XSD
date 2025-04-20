@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fichas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="fichas.xsd">
+  <ficha numero="02">
+    <nombre>Ana Sanz Fin</nombre>
+    <codigo>09</codigo>
+    <letra>Z</letra>
+  </ficha>
+  <ficha numero="04">
+    <nombre>Rubio Mol</nombre>
+    <codigo>16</codigo>
+  </ficha>
+</fichas>
