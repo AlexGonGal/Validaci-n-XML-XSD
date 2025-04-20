@@ -10,3 +10,4 @@
 
     <xs:element name="vehiculo" type="tipoDeVehiculo"/>
 </xs:schema>
+ 

@@ -20,6 +20,7 @@
     <xs:simpleType name="inicialesType">
         <xs:restriction base="xs:string">
             <xs:pattern value="[A-Z]{3}"/>
-        </xs:restriction>
+        </xs:restriction> 
     </xs:simpleType>
 </xs:schema>
+ 
